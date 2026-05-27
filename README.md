@@ -34,7 +34,6 @@
 ### 🐍 Programming & Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🧰 Also Familiar With (from Web Dev background)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -65,13 +64,6 @@
 > Complex SQL queries to extract customer behavior, funnel drop-offs, and monthly cohort retention.
 > `PostgreSQL` `CTEs` `Window Functions`
 
-### 🐍 [Exploratory Data Analysis — [Dataset Name]](#)
-> End-to-end EDA: data cleaning, statistical analysis, and visual storytelling with Python.
-> `Python` `Pandas` `Matplotlib` `Seaborn`
-
-> 💡 *Replace `#` with your actual repo links and update project names with your real work!*
-
----
 
 ## 📈 GitHub Stats
 
