@@ -81,10 +81,10 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/shivam-chaurasiya" target="_blank">
+  <a href="https://www.linkedin.com/in/shivam-chaurasiya-8515a722b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.leetcode.com/omshivam9918" target="_blank">
+  <a href="https://leetcode.com/u/omshivam9918/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.codechef.com/users/shivam_9918" target="_blank">
