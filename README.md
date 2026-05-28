@@ -89,19 +89,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=9918shivam&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9918shivam&layout=compact&theme=default&hide_border=true" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9918shivam&theme=default&hide_border=true" width="50%"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
