@@ -7,15 +7,6 @@
 </p>
 
 ---
-<!-- Header -->
-<h1 align="center">Hi, I'm Shivam Chaurasiya 👋</h1>
-<h3 align="center">Data Analyst · Turning raw data into decisions · India</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=9918shivam&label=Profile%20views&color=0e75b6&style=flat" alt="9918shivam" />
-</p>
-
----
 
 ## 🙋‍♂️ About Me
 
