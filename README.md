@@ -56,7 +56,7 @@
 
 ## 📁 Featured Projects
 
-### 📊 [Star Schema Sales Dashboard](#)
+### 📊 [Star Schema Sales Dashboard](https://github.com/9918Shivam/Star_schema_sales_dashboard.git)
 > End-to-end Power BI dashboard built on a **Star Schema data model** — 1 fact table connected to 4 dimension tables (Product, Sub-Product, State, Payment Mode). Analyzes retail sales across 5 Indian states, 6 product categories, and 5 sales managers.
 > Key finding: Gujarat leads in revenue, T-Shirts are the top sub-product, and Net Banking + COD together account for the majority of transactions.
 >
@@ -67,7 +67,7 @@
 
 ---
 
-### 🌍 [Indian Population Analytics Dashboard](#)
+### 🌍 [Indian Population Analytics Dashboard](https://github.com/9918Shivam/Indian-Population-Analytics.git)
 > Interactive Power BI dashboard analyzing India's population distribution across all **35 states and union territories** — covering demographics, literacy rates, urban-rural split, sex ratio, and population density.
 > Built to surface regional disparities and make census-level data explorable for researchers and policymakers.
 >
@@ -78,7 +78,7 @@
 
 ---
 
-### 💰 [Financial Sales Dashboard — Power BI](#)
+### 💰 [Financial Sales Dashboard — Power BI](https://github.com/9918Shivam/Financial-Dashboard-PowerBI.git)
 > Multi-page Power BI dashboard analyzing financial sales transactions across **6 countries, 6 product lines, and 5 customer segments** (Government, Enterprise, SMB, Midmarket, Channel Partners).
 > Identified that the Government segment drives the highest revenue while Channel Partners deliver the strongest profit margins — and that heavy discounting significantly erodes profitability.
 >
